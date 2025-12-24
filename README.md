@@ -45,7 +45,3 @@ Once you have the frequency, you still need the specific "Command Codes" (e.g., 
 *   **Hardware**: Android `ConsumerIrManager` API
 *   **Architecture**: MVVM with `StateFlow`
 *   **Storage**: Shared Preferences (for persisting custom mapcodes)
-
-## 👤 Author
-**Kalaiselvan Arumugam**
-*   GitHub: [kalaiselvan-arumugam](https://github.com/kalaiselvan-arumugam/)
